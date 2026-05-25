@@ -13,9 +13,10 @@
 #two {
     font-size: 36px;
     color: #000080;
-
 }
 
 #four {
-
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
 }

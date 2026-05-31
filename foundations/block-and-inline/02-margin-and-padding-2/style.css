@@ -11,23 +11,23 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  padding: 5px;
+  padding: 10px;
 }
 
 .title {
   background: #e3f4ff;
+  padding: 10px;
 }
 
 .content {
   background: #e3f4ff;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .button-container {
   background: #e3f4ff;
-  width 150px;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 button {
@@ -38,5 +38,5 @@ button {
   width: 150px;
   margin-left: auto;
   margin-right: auto;
-
+  margin-bottom: 10px;
 }

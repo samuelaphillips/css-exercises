@@ -50,3 +50,17 @@ ul {
   padding: 0;
   margin: 0;
 }
+
+.left-side {
+    display: flex;
+
+}
+
+.right-side {
+    display: flex;
+
+}
+
+.links {
+    display: flex;
+}

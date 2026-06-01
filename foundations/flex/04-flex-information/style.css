@@ -19,9 +19,7 @@ img {
     display: flex;
     justify-content: space-around;
     gap: 52px;
-    width: 200px;
     flex-wrap: wrap;
-    border: 1px solid red;
 }
 
 

@@ -40,9 +40,9 @@ body {
 .cards {
   display: flex;
   flex-wrap: wrap;
+  padding: 48px;
 }
 
 .sidebar-cards {
   display: flex;
-  gap: 24px;
 }

@@ -33,9 +33,17 @@ input {
   width: 400px;
 }
 
+.content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+};
+
 .footer {
   background-color: #eeeeee;
-  justify-self: flex-end;
 }
 
 .left-links, .right-links {

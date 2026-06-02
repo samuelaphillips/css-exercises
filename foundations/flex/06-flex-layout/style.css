@@ -33,6 +33,10 @@ input {
   width: 400px;
 }
 
+.footer {
+  background-color: #eeeeee;
+}
+
 .left-links, .right-links {
   list-style-type: none;
   padding: 0;

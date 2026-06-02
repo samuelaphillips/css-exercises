@@ -20,7 +20,12 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+  display: flex;
+  gap: 16px;
 }
 
 .icon {
@@ -79,4 +84,12 @@ button.cancel {
 .main-content {
     display: flex;
     flex-direction: column;
+    gap: 16px;
+    flex: 1;
+}
+
+.continue-cancel {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
 }

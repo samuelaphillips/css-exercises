@@ -24,6 +24,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -32,6 +33,10 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.buttons {
+}
+
 
 .content {
   display: flex;
@@ -64,6 +69,12 @@ input {
 
 .footer .left-links, 
 .footer .right-links {
+    display: flex;
+    gap: 8px;
+}
+
+.header .left-links, 
+.header .right-links {
     display: flex;
     gap: 8px;
 }

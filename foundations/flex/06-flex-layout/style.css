@@ -35,6 +35,7 @@ input {
 
 .footer {
   background-color: #eeeeee;
+  justify-self: flex-end;
 }
 
 .left-links, .right-links {
